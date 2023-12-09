@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Helpful Resources
+[Chief Delphi](https://www.chiefdelphi.com/) - FRC message board
+### Guides
+[Zero to Robot](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html) - FIRST guide to get up and running  
+### General Docs
+[Rev Robotics](https://docs.revrobotics.com/docs/)  
+### Api Docs
+[WPILib](https://github.wpilib.org/allwpilib/docs/release/java/index.html)
+[REVLib](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#java-api)  
